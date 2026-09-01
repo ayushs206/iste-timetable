@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source": "/api/discrepancy",
-            "destination": "https://iste-contact-backend.onrender.com/api/timetable/discrepency"
+            "destination": "https://iste-contact-backend.vercel.app/api/timetable/discrepency"
         },
         {
             "source": "/(.*)",
